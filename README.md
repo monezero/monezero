@@ -10,8 +10,8 @@
 </div>
 <div align="center">
 
-  <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=monezero&show_icons=true&theme=github_dark" />
-  <img height="180em" src="https://readme-stats.clckblog.space/api/top-langs/?username=monezero&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="150em" src= "https://github-readme-stats.vercel.app/api?username=monezero&show_icons=true&theme=github_dark" />
+  <img height="150em" src="https://readme-stats.clckblog.space/api/top-langs/?username=monezero&layout=compact&langs_count=7&theme=github_dark"/>
     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=monezero&theme=github-dark-blue"/>
 
 </div>
