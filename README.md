@@ -1,4 +1,4 @@
-## My name is João. You can also call me Mone
+## Hi my name is João.
  ### I am a Front-end developer  from Brazil.
 ### :hammer_and_wrench: This is my skillset :
 <div>
