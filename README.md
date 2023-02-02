@@ -1,16 +1,17 @@
-### Hi there 👋
+## My name is João. You can also call me Mone
+ ### I am a Front-end developer  from Brazil.
+:hammer_and_wrench: This is my skillset :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="TypeScript" width="40" height="40"/>&nbsp
+</div>
+<div align="center">
 
-<!--
-**monezero/monezero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monezero&show_icons=true&theme=github_dark)
+  <img height="196em" src="https://readme-stats.clckblog.space/api/top-langs/?username=monezero&layout=compact&langs_count=7&theme=github_dark"/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=monezero&theme=github-dark-blue)](https://git.io/streak-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
