@@ -9,11 +9,6 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="TypeScript" width="30" height="30"/>&nbsp
 </div>
 
-### 🤖 Stats
-<div align="center">
 
-  <img height="150em" src= "https://github-readme-stats.vercel.app/api?username=monezero&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://readme-stats.clckblog.space/api/top-langs/?username=monezero&layout=compact&langs_count=7&theme=github_dark"/>
-    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=monezero&theme=github-dark-blue"/>
 
 </div>
